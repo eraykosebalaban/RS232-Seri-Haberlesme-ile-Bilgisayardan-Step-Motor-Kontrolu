@@ -1,0 +1,57 @@
+[PROJECT]
+Target=rs232 step kod.hex
+Processor_Text=PIC16F877
+CCSVersion=5.049
+Compiler=PCM
+[Target Data]
+FileList=rs232 step kod.c
+[rs232 step kod.c]
+Type=4
+[mru-list]
+1=rs232 step kod.c
+
+[defines]
+buildcount=27
+
+[Opened Files]
+1=rs232 step kod.c
+t1=34
+Count=1
+
+[ProjectLog]
+Days=3
+D1=11-09-2022
+D1_L=8
+D1_L1=[4928]Stopped Editing.
+D1_L2=[5084]Started Editing.
+D1_L3=[5697]Stopped Editing.
+TotalEdit=47
+TotalDebug=0
+D1_E=43
+D1_D=0
+D1_L4=[5821]Project Closed.
+D1_L5=[56851]Project Opened.
+D1_L6=[57247]Started Editing.
+D1_L7=[58099]Stopped Editing.
+D1_L8=[58709]Project Closed.
+D2=12-09-2022
+D2_L=10
+D2_L1=[4679]Project Opened.
+D2_L2=[5555]Project Closed.
+D2_L3=[49091]Project Opened.
+D2_L4=[49117]Started Editing.
+D2_L5=[49518]Stopped Editing.
+D2_L6=[49614]Started Editing.
+D2_L7=[49713]Stopped Editing.
+D2_E=4
+D2_D=0
+D2_L8=[49713]Project Closed.
+D2_L9=[67814]Project Opened.
+D2_L10=[67945]Project Closed.
+D3=14-09-2022
+D3_L=2
+D3_L1=[59844]Project Opened.
+D3_L2=[60128]Project Closed.
+[Units]
+Count=1
+1=rs232 step kod (main)

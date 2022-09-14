@@ -1,0 +1,5 @@
+>>> Warning 230 "rs232 step kod.c" Line 42(1,1): String truncated
+>>> Warning 203 "rs232 step kod.c" Line 69(1,1): Condition always TRUE
+      Memory usage:   ROM=7%      RAM=4% - 6%
+      0 Errors,  2 Warnings.
+Build Successful.
